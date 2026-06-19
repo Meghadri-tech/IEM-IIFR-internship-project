@@ -83,7 +83,7 @@ This project can be used for:
 
 ## 🤝 Acknowledgements
 
-Developed as part of an academic project under the **Department of Basic Science and Humanities**, Institute of Engineering & Management (IEM), Kolkata 
+Developed as part of an academic project under the **Department of Basic Science and Humanities**, Institute of Engineering & Management (IEM), Kolkata,
 in collaboration with IEM Institute of Fundamental Research ( IIFR ) 
 
 I am especially grateful to the professors of my institution for their invaluable guidance, constructive feedback, and continuous encouragement throughout the development of this project. Their mentorship played a crucial role in shaping the project and ensuring its successful completion.
